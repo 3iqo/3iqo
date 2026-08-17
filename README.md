@@ -2,12 +2,12 @@
 
 <img src="https://avatars.githubusercontent.com/u/215484606?v=4" width="160" alt="MrLuckke" style="border-radius:50%; border:5px solid #ff6bcb; box-shadow:0 0 15px rgba(255,107,203,.6);margin-bottom:15px">
 
-<h1>Olá, sou Mr. Syntax</h1>
+<h1>Olá, sou o Nyu</h1>
 <p><strong>Full Stack • Bots • APIs • Web</strong></p>
 <p>5 anos de código em ação</p>
 
 <div style="margin:20px 0">
-  <a href="https://discord.gg/7jJNdHHekn" target="_blank">
+  <a href="https://discord.gg/atlascord" target="_blank">
     <img src="https://img.shields.io/badge/Weave-Invite-000?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/c0f9a" target="_blank">
@@ -21,7 +21,7 @@
 <br>
 
 <p style="max-width:700px;margin:0 auto 15px;font-size:15px;line-height:1.5">
-  <strong>x7 St34l3r & ????</strong> • Bots → Full Stack<br>
+  <strong>Atlas & ????</strong> • Bots → Full Stack<br>
   Automação inteligente é minha paixão
 </p>
 
